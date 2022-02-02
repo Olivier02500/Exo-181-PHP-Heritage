@@ -8,9 +8,9 @@ require "classes/Dragon.php";
 
 // Creation d'une instance de la classe personnage
 $humain = new personnage();
-$humain->setNom("Votre nom");
+$humain->setNom("Arthur");
 
 // Creation d'une instance de la classe dragon
 $dragon = new dragon();
-$dragon->setNom();
+$dragon->setNom('smog');
 
